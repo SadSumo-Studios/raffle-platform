@@ -1,1 +1,1 @@
-web: npm run testDb
+web: npm run dev
